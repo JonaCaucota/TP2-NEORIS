@@ -8,11 +8,11 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.neoris</groupId>
+	<artifactId>tp2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>tp2</name>
+	<description>Tp2 for Neoris</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
